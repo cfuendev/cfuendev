@@ -1,13 +1,4 @@
 <span>
-
-<h4> Mis herramientas / Tools I use </h4>
-
-<p>
-<img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
-<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black"/>
-</p>
-
 <h4> Pa' lo que soy bueno / What I'm good for </h4>
 <p>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -30,6 +21,15 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E"/>
 </p>
+
+<h4> Mis herramientas / Tools I use </h4>
+
+<p>
+<img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
+<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black"/>
+</p>
+
 
 <p align="middle">
 <img width="450" src="https://github-readme-stats.vercel.app/api?username=cfuendesign&show_icons=true&bg_color=22272e&title_color=adbac7&icon_color=636e7b&text_color=adbac7&border_color=444c56">
