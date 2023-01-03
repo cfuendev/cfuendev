@@ -15,6 +15,10 @@
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
+  
+<p>
+<img src="https://img.shields.io/badge/strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white"/>  
+</p>
 
 <p>
 <img src="https://img.shields.io/badge/Deno-white?style=for-the-badge&logo=deno&logoColor=464647"/>
