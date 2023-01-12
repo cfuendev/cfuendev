@@ -33,10 +33,11 @@
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black"/>
 </p>
-
+<!--
 
 <p align="middle">
 <img width="450" src="https://github-readme-stats.vercel.app/api?username=cfuendev&show_icons=true&bg_color=22272e&title_color=adbac7&icon_color=636e7b&text_color=adbac7&border_color=444c56">
 
 <img width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cfuendev&show_icons=true&bg_color=22272e&title_color=adbac7&icon_color=636e7b&text_color=adbac7&border_color=444c56">
 </p>
+-->
