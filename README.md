@@ -1,7 +1,7 @@
 https://cfuendev.netlify.app/
 
 <span>
-<h4> Pa' lo que soy bueno / What I'm good for </h4>
+<h4> Pa' lo que soy buena / What I'm good for </h4>
 <p>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/lit-324FFF?style=for-the-badge&logo=lit&logoColor=white" />
