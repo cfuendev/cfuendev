@@ -18,11 +18,12 @@ https://cfuendev.netlify.app/
   <img src="https://img.shields.io/badge/PyWebview-455b66?style=for-the-badge&logo=python&logoColor=83c99e"/>
 </p>
 
-<p> <h5> UI Libraries </h5>
+<p> <h5> Languages </h5>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
 </p>
   
 <p> <h5> CMS </h5>
