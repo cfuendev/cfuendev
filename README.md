@@ -26,9 +26,10 @@ https://cfuendev.netlify.app/
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
 </p>
   
-<p> <h5> CMS </h5>
+<p> <h5> Software and Infra </h5>
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/Netlify CMS-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
-<img src="https://img.shields.io/badge/strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white"/>  
+<img src="https://img.shields.io/badge/strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white">  
 </p>
 
 <p> <h5> Runtimes </h5>
