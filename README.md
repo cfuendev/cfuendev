@@ -4,7 +4,8 @@
 
 - I'm a software developer
 - I like [FLOSS](https://www.gnu.org/philosophy/free-sw.en.html)
-- I like ethical web scraping and overly automating things
+- I like web scraping and automating things
+- I also like gaming, movies, animanga and music
 
 <details>
   <summary>
